@@ -213,15 +213,6 @@ function rollDice(total){
 	*/
 }
 
-/*
-document.getElementById("dice_1").value = 5;
-document.getElementById("dice_2").value = 6;
-document.getElementById("dice_3").value = 7;
-document.getElementById("dice_4").value = 8;
-document.getElementById("dice_5").value = 9;
-document.getElementById("dice_6").value = 0;
-*/
-
 let total = 0;
 let totalField = document.getElementById("total");
 totalField.value = total;
