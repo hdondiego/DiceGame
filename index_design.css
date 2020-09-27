@@ -1,0 +1,9 @@
+.main {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul {
+    padding-right: 3%;
+    list-style-position: inside;
+}
